@@ -1,6 +1,7 @@
-# Angular Seed Project
+# Mock Stock-exchange [Work in progress]
 
-This is a self-contained project with the following stack
+This is the UI for Mock stock-exchange party game. The game requires one stock-master using this UI and any number of players. It is recommended that the UI be displayed somewhere publicly, like a big TV or a projector. The game has the following items in stack. 
+
 
 1. Angular
 2. Pug
